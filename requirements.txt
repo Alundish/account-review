@@ -1,0 +1,6 @@
+pandas
+dotenv
+openai
+datetime
+requests
+bs4
